@@ -46,19 +46,19 @@
             <!-- radio -->
             <p>Jenis</p>
             <div class="form-check form-check-inline">
-              <input class="form-check-input" type="radio" name="radio" id="flexRadioDefault1" value="Berita" required>
+              <input class="form-check-input" type="radio" name="jenis" id="flexRadioDefault1" value="Berita" required>
               <label class="form-check-label" for="flexRadioDefault1">
                 Berita
               </label>
             </div>
             <div class="form-check form-check-inline">
-            <input class="form-check-input" type="radio" name="radio" id="flexRadioDefault1" value="Tutorial" required>
+            <input class="form-check-input" type="radio" name="jenis" id="flexRadioDefault1" value="Tutorial" required>
               <label class="form-check-label" for="flexRadioDefault1">
                 Tutorial
               </label>
             </div>
             <div class="form-check form-check-inline">
-            <input class="form-check-input" type="radio" name="radio" id="flexRadioDefault1" value="Blog" required>
+            <input class="form-check-input" type="radio" name="jenis" id="flexRadioDefault1" value="Blog" required>
               <label class="form-check-label" for="flexRadioDefault1">
                 Blog
               </label>
